@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/23WpH6By/icon.png",
+        "offer": "Best prices & offers",
+        "details": "Ordeer $50 or more"
+        
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/prkTKR14/icon-1.png",
+        "offer": "Free delivery",
+        "details": "24/7 amazing services"
+        
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/sJMN38Zq/icon-2.png",
+        "offer": "Great daily deal",
+        "details": "When you sign up"
+        
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/svMLZHML/icon-3.png",
+        "offer": "Wide assortment",
+        "details": "Mega Discounts"
+        
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/jpn7kTh/icon-4.png",
+        "offer": "Easy returns",
+        "details": "Within 30 days"
+        
+    }
+]
