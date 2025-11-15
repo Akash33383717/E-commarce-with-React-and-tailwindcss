@@ -10,7 +10,7 @@ const Offers = () => {
     },[])
 
   return (
-    <div className='my-10 gap-5 container mx-auto grid grid-cols-1 md:grid-cols-5'>
+    <div className='my-10 gap-5 container mx-auto grid grid-cols-1 lg:grid-cols-5'>
       {data.map((item) => (
         <div 
           key={item.id}

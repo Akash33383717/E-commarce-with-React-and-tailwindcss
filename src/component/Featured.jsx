@@ -113,7 +113,7 @@ const CategorySlider = () => {
           ))}
         </Swiper>
       </div>
-
+          
       <button className="swiper-button-next custom-nav-right">
         <CiCircleChevRight />
       </button>

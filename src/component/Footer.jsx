@@ -129,7 +129,7 @@ const App = () => {
   return (
     <footer className="bg-white border-t border-gray-200 pt-16 pb-8 font-sans">
       <div className="container mx-auto">
-        <div className="grid grid-cols-1 gap-10 md:grid-cols-7 md:gap-5">
+        <div className="grid grid-cols-2 gap-10 md:grid-cols-3 lg:grid-cols-7">
           
   
           <div className="lg:col-span-2 space-y-6">
