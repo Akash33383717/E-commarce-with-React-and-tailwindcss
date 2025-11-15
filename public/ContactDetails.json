@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Office",
+    "address": "205 North Michigan Avenue, Suite 810",
+    "city": "Chicago, 60601, USA",
+    "phone": "(123) 456-7890",
+    "email": "contact@Evara.com",
+    "map": "View map"
+  },
+  {
+    "id": 2,
+    "title": "Headquarters",
+    "address": "500 Fifth Avenue, 10th Floor",
+    "city": "New York, 10110, USA",
+    "phone": "(987) 654-3210",
+    "email": "hq@Evara.com",
+    "map": "View map"
+  },
+  {
+    "id": 3,
+    "title": "Branch Office",
+    "address": "123 Main Street, Suite 400",
+    "city": "Los Angeles, 90012, USA",
+    "phone": "(555) 123-4567",
+    "email": "branch@Evara.com",
+    "map": "View map"
+  }
+]
