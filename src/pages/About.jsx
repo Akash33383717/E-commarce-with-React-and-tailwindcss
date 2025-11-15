@@ -1,5 +1,5 @@
 import React from 'react'
-import Offer from '../component/AboutComponent/offer'
+import Offer from '../component/AboutComponent/Offer'
 import Hero from '../component/AboutComponent/Hero.jsx'
 import Performance from '../component/AboutComponent/Performance.jsx'
 import Details from '../component/AboutComponent/Details.jsx'
