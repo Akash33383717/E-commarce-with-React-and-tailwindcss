@@ -21,7 +21,7 @@ const ContactForm = () => {
   }
 
   return (
-    <div className='flex container mx-auto gap-10 items-center my-10 justify-around'>
+    <div className='md:flex md:gap-10 container mx-auto space-y-10 items-center my-10 justify-around'>
       <div className='flex-1'>
         <div className='mb-5'>
           <p className="text-gray-500">Contact form</p>
@@ -70,7 +70,7 @@ const ContactForm = () => {
             placeholder="Your Message"
             value={formData.message}
             onChange={handleChange}
-            className="border border-gray-300 outline-none p-5 w-full rounded col-span-2"
+            className="border border-gray-300 outline-none p-5 w-full rounded md:col-span-2"
           />
 
           <button 
