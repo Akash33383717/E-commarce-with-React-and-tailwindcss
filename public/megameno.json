@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Seeds of Change Organic Red Rice",
+    "price": 28.85,
+    "old_price": 33,
+    "discount": "13%",
+    "category": "Fresh Fruit",
+    "brand": "NestFood",
+    "image": "https://i.ibb.co.com/MkNy6YTh/Seeds-of-Change-Organic-Red-Rice.png"
+  },
+  {
+    "id": 2,
+    "title": "All Natural Style Chicken Meatballs",
+    "price": 52.85,
+    "old_price": 55,
+    "discount": "6%",
+    "category": "Bread and Juice",
+    "brand": "NestFood",
+    "image": "https://i.ibb.co.com/1GXXPP6c/All-Natural-Style-Chicken-Meatballs.png"
+  },
+  {
+    "id": 3,
+    "title": "Angie's Sweet & Salty Kettle Corn",
+    "price": 48.85,
+    "old_price": 52,
+    "discount": "8%",
+    "category": "Baking Material",
+    "brand": "Country Crock",
+    "image": "https://i.ibb.co.com/sdwXM4Z8/Angie-s-Sweet-Salty-Kettle-Corn.png"
+  },
+  {
+    "id": 4,
+    "title": "Foster Farms Takeout Crispy Classic",
+    "price": 17.85,
+    "old_price": 19,
+    "discount": "10%",
+    "category": "Baking Material",
+    "brand": "Country Crock",
+    "image": "https://i.ibb.co.com/twJvkZvT/Foster-Farms-Takeout-Crispy-Classic.png"
+  },
+  {
+    "id": 5,
+    "title": "Blue Almonds Lightly Salted Vegetables",
+    "price": 23.85,
+    "old_price": 25,
+    "discount": "8%",
+    "category": "Fresh Fruit",
+    "brand": "Country Crock",
+    "image": "https://i.ibb.co.com/KpScDJSP/Blue-Almonds-Lightly-Salted-Vegetables.png"
+  },
+  {
+    "id": 6,
+    "title": "Chobani Complete Vanilla Greek Yogurt",
+    "price": 54.85,
+    "old_price": 56,
+    "discount": "2%",
+    "category": "Fresh Fruit",
+    "brand": "Country Crock",
+    "image": "https://i.ibb.co.com/NXLwDmJ/Chobani-Complete-Vanilla-Greek-Yogurt.png"
+  },
+  {
+    "id": 7,
+    "title": "Haagen Caramel Cone Ice Cream Boxed",
+    "price": 22.85,
+    "old_price": 24,
+    "discount": "8%",
+    "category": "Baking Material",
+    "brand": "Hambger Hel",
+    "image": "https://i.ibb.co.com/zVsS3qjH/Haagen-Caramel-Cone-Ice-Cream-Boxed.png"
+  },
+  {
+    "id": 8,
+    "title": "Gorton’s Beer Battered Fish Fillets",
+    "price": 23.85,
+    "old_price": 25,
+    "discount": "8%",
+    "category": "Fresh Seafood",
+    "brand": "Hambger Hel",
+    "image": "https://i.ibb.co.com/SDQZK6VN/Gorton-s-Beer-Battered-Fish-Fillets.png"
+  },
+  {
+    "id": 9,
+    "title": "Encore Seafoods Stuffed Alaskan",
+    "price": 35.85,
+    "old_price": 37,
+    "discount": "6%",
+    "category": "Clothing & Beauty",
+    "brand": "Hambger Hel",
+    "image": "https://i.ibb.co.com/8D1v4g94/Encore-Seafoods-Stuffed-Alaskan.png"
+  },
+  {
+    "id": 10,
+    "title": "Canada Dry Ginger Ale – 2 L Bottle",
+    "price": 32.85,
+    "old_price": 33,
+    "discount": "3%",
+    "category": "Baking Material",
+    "brand": "Hambger Hel",
+    "image": "https://i.ibb.co.com/1GrcSZgf/Canada-Dry-Ginger-Ale-2-L-Bottle.png"
+  },
+  {
+    "id": 11,
+    "title": "Extra virgin olive oil, canola oil, nonfat",
+    "price": 58,
+    "old_price": 60,
+    "discount": "4%",
+    "category": "Baking Material",
+    "brand": "Totino’s Pizza",
+    "image": "https://i.ibb.co.com/wFD0C5Wd/Extra-virgin-olive-oil-canola-oil-nonfat.png"
+  },
+  {
+    "id": 12,
+    "title": "Frozen vegetables broccoli, spinach",
+    "price": 71,
+    "old_price": 75,
+    "discount": "6%",
+    "category": "Baking Material",
+    "brand": "Totino’s Pizza",
+    "image": "https://i.ibb.co.com/xSsFNRz9/Frozen-vegetables-broccoli-spinach.png"
+  },
+  {
+    "id": 13,
+    "title": "Frozen fruit strawberry, berries",
+    "price": 78,
+    "old_price": 99,
+    "discount": "21%",
+    "category": "Fresh Fruit",
+    "brand": "Maruchan Ramen",
+    "image": "https://i.ibb.co.com/cX7g7x2K/Frozen-fruit-strawberry-berries.png"
+  },
+  {
+    "id": 14,
+    "title": "Pre-portioned low-fat ice cream yogurt",
+    "price": 79,
+    "old_price": 99,
+    "discount": "21%",
+    "category": "Bread and Juice",
+    "brand": "Maruchan Ramen",
+    "image": "https://i.ibb.co.com/NgjvvzXN/Pre-portioned-low-fat-ice-cream-yogurt.png"
+  },
+  {
+    "id": 15,
+    "title": "Dried fruit apricots, figs, prunes",
+    "price": 56,
+    "old_price": 70,
+    "discount": "27%",
+    "category": "Fresh Fruit",
+    "brand": "USA Noodle Soup",
+    "image": "https://i.ibb.co.com/7NSFCQDp/Dried-fruit-apricots-figs-prunes.png"
+  }
+]

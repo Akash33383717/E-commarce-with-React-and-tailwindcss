@@ -17,7 +17,7 @@ const Nav = () => {
                 <NavLink to = '/'><li>Home</li></NavLink>
                 <NavLink to ='/about'><li>About</li></NavLink>
                 <NavLink to ='/shop'><li>Shop</li></NavLink>
-                <NavLink to ='/mega menu'><li>Mega Menu</li></NavLink>
+                <NavLink to ='/megamenu'><li>Mega Menu</li></NavLink>
                 <NavLink to ='/blog'><li>Blog</li></NavLink>
                 <NavLink to ='/contact'><li>Contact</li></NavLink>
             </ul>
@@ -52,7 +52,7 @@ const Nav = () => {
                 <NavLink to = '/'><li>Home</li></NavLink>
                 <NavLink to ='/about'><li>About</li></NavLink>
                 <NavLink to ='/shop'><li>Shop</li></NavLink>
-                <NavLink to ='/mega menu'><li>Mega Menu</li></NavLink>
+                <NavLink to ='/megamenu'><li>Mega Menu</li></NavLink>
                 <NavLink to ='/blog'><li>Blog</li></NavLink>
                 <NavLink to ='/contact'><li>Contact</li></NavLink>
               </ul>

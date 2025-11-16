@@ -7,6 +7,7 @@ import Contact from './pages/Contact.jsx'
 import Shop from './pages/Shop.jsx'
 import Blog  from './pages/Blog.jsx'
 import Error from './pages/Error.jsx'
+import MegaMenu from './pages/MegaMenuMain.jsx'
 
 const App = () => {
   const router = createBrowserRouter(
@@ -20,6 +21,7 @@ const App = () => {
         <Route path='shop' element={<Shop/>}/>
         <Route path='blog' element={<Blog/>}/>
         <Route path='contact' element={<Contact/>}/>
+        <Route path='megamenu' element={<MegaMenu/>}/>
         <Route path='*' element = {<Error/>}></Route>
       </Route>
       
