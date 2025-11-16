@@ -11,7 +11,7 @@ export default function MegaMenu() {
   }, []);
 
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 container mx-auto  my-15">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 container mx-auto  my-15">
       {items.map((item) => (
         <MegaMenoCard key={item.id} item={item} />
       ))}
