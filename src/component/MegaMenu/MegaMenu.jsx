@@ -30,7 +30,7 @@ export default function MegaMenu() {
   return (
     <div className="container mx-auto my-10">
       {/* Category list */}
-      <div className="flex justify-between gap-5 ">
+      <div className="md:flex justify-between md:gap-5 space-y-5 ">
         <div className="whitespace-nowrap">
           <h2 className="text-4xl">Popular Products</h2>
         </div>

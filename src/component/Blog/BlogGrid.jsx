@@ -25,7 +25,7 @@ const BlogGrid = () => {
   return (
     <div className='container mx-auto my-15'>
       {/* Dropdowns */}
-      <div className='flex justify-between my-5 items-center'>
+      <div className='md:flex md:justify-between md:my-5 md:items-center space-y-5 my-5'>
         <div className='flex gap-5 items-center'>
           <img src={img} alt="" />
           <h1 className='text-2xl'>Recipes Articles</h1>
