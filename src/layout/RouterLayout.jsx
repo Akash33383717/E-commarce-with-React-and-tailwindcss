@@ -5,7 +5,7 @@ import Footer from '../component/Footer'
 import { Suspense } from 'react'
 const RouterLayout = () => {
   return (
-    <div className='px-10 md:p-0'>
+    <div className='px-5 md:p-0'>
       <Suspense fallback = {<div>loading</div>}>
       <Nav></Nav>
       <Outlet></Outlet>
