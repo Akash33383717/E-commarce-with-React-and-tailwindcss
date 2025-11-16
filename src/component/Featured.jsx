@@ -34,10 +34,11 @@ const categories = [
 const CategorySlider = () => {
   return (
     <div className="w-full relative flex items-center justify-center gap-2">
-
+      <div className="hidden md:block">
       <button className="swiper-button-prev custom-nav-left">
         <CiCircleChevLeft />
       </button>
+      </div>
 
       <div className="container mx-auto">
         <Swiper
@@ -113,10 +114,11 @@ const CategorySlider = () => {
           ))}
         </Swiper>
       </div>
-          
+       <div className="hidden md:block">   
       <button className="swiper-button-next custom-nav-right">
         <CiCircleChevRight />
       </button>
+      </div>
     </div>
   );
 };
