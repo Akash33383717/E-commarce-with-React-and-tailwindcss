@@ -21,7 +21,7 @@ const ContactForm = () => {
   }
 
   return (
-    <div className='flex max-w-7xl mx-auto gap-10 items-center my-10 justify-around'>
+    <div className='flex container mx-auto gap-10 items-center my-10 justify-around'>
       <div className='flex-1'>
         <div className='mb-5'>
           <p className="text-gray-500">Contact form</p>
@@ -29,7 +29,7 @@ const ContactForm = () => {
           <p className="text-gray-400 text-sm">Your email address will not be published. Required fields are marked *</p>
         </div>
 
-        <form onSubmit={handleSubmit} className="gap-5 grid grid-cols-2">
+        <form onSubmit={handleSubmit} className="gap-5 grid grid-cols-1 md:grid-cols-2">
           <input
             type="text"
             name="name"
@@ -70,12 +70,12 @@ const ContactForm = () => {
             placeholder="Your Message"
             value={formData.message}
             onChange={handleChange}
-            className="border border-gray-300 outline-none p-2 w-full rounded col-span-2"
+            className="border border-gray-300 outline-none p-5 w-full rounded col-span-2"
           />
 
           <button 
             type="submit" 
-            className="bg-black text-white px-4 py-2 rounded hover:bg-black/50 col-span-2"
+            className="bg-black text-white px-4 py-2 rounded hover:bg-black/50"
           >
             Send your message
           </button>

@@ -19,7 +19,7 @@ const Hero = () => {
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
       </div>
 
-      <div className='grid grid-cols-2 gap-5'>
+      <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
         {data.map((i) => (
           <div key={i.id} className="space-y-2">
             <p className="text-xl font-bold hover:text-green-400 transition-colors duration-300">{i.id}. {i.title}</p>

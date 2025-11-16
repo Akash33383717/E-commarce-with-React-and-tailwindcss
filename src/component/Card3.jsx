@@ -24,7 +24,7 @@ const Card3 = () => {
     ];
 
     return (
-        <div className='grid  grid-cols-1 md:grid-cols-3 container mx-auto gap-5 py-5 md:py-10'>
+        <div className='grid  grid-cols-1 md:grid-cols-3 container mx-auto gap-5 py-5 md:py-10  justify-items-center'>
             {images.map((item) => (
                 <div 
                 key = {item.id}
