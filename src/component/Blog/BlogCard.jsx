@@ -3,7 +3,7 @@ import React from 'react'
 const BlogCard = ({ it }) => {
   return (
     <div>
-      <div className="container mx-auto bg-white rounded-xl shadow-lg overflow-hidden">
+      <div className="container whitespace-break-spaces h-full mx-auto bg-white rounded-xl shadow-lg overflow-hidden">
         
         <div className="relative h-60">
           <img 
@@ -18,7 +18,7 @@ const BlogCard = ({ it }) => {
             {it.category}
           </p>
 
-          <h2 className="text-2xl font-semibold text-gray-800 leading-tight mb-4">
+          <h2 className="text-2xl font-semibold text-gray-800 leading-tight mb-4 wrap-break-word">
             {it.title}
           </h2>
 

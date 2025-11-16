@@ -85,7 +85,7 @@ const FeatureCard = ({ title, description, icon_url }) => {
 // Main App Component
 const Offer = () => {
   return (
-    <div className="min-h-screen bg-gray-50 p-4 sm:p-8 font-sans">
+    <div className=" bg-gray-50 p-5 md:px-10">
       <div className="max-w-7xl mx-auto py-12">
         {/* Optional Header Section */}
         <div className="text-center mb-12">
