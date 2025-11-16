@@ -34,7 +34,7 @@ export default function MegaMenu() {
         <div className="whitespace-nowrap">
           <h2 className="text-4xl">Popular Products</h2>
         </div>
-      <div className="flex gap-4 mb-5 overflow-x-scroll scroll-smooth px-5 py-1">
+      <div className="flex gap-4 mb-5 overflow-x-scroll scroll-smooth px-2 py-2">
         {categories.map((cat) => (
           <button
             key={cat}
